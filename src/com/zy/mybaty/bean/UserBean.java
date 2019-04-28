@@ -1,6 +1,7 @@
 package com.zy.mybaty.bean;
 
 public class UserBean {
+	//主键
 	private String id;
 	private String username;
 	private String password;
